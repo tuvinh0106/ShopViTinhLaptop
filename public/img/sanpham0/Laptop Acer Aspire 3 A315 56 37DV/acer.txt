@@ -1,0 +1,28 @@
+Laptop Acer Aspire 3 A315 56 37DV
+
+Giá Cũ:12,490,000₫
+Giá KM:10,990,000₫
+
+Thông số kỹ thuật: 
+
+Thương hiệu	ACER
+Bảo hành	12 tháng
+Model		Acer Aspire 3 A315 56 37DV
+CPU		Intel Core i3-1005G1 1.2GHz up to 3.4GHz 4MB
+RAM		4GB DDR4 2400MHz Onboard ( 1x onboard 4GB + 1x SO-DIMM socket, up to 12GB SDRAM)
+Ổ cứng		256GB SSD M.2 PCIE, 1x slot SATA3 2.5"
+Card đồ họa	Intel UHD Graphics
+Màn hình	15.6" FHD (1920 x 1080) Acer ComfyView LCD, Anti-Glare
+Cổng giao tiếp	1x USB 3.1, 2x USB 2.0, HDMI, RJ-45
+Ổ quang		None
+Audio		Realtek High Definition
+Đọc thẻ nhớ	None
+Chuẩn LAN	10/100/1000 Mbps
+Chuẩn WIFI	802.11 ac
+Bluetooth	v4.2
+Webcam		HD Webcam
+Hệ điều hành	Windows 10 Home
+Pin		3 Cell 36.7 Whr
+Trọng lượng	1.7 kg
+Màu sắc	Shale 	Black
+Kích thước	363 x 247.5 x 19.9 (mm)

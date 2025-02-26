@@ -1,0 +1,29 @@
+Laptop HP ProBook 450 G8 614K3PA
+
+Giá Cũ:20,990,000₫
+Giá KM:19,990,000₫
+
+THÔNG SỐ KĨ THUẬT
+CPU		Intel Core i5-1135G7 2.4GHz up to 4.2GHz 8MB
+RAM		8GB DDR4 3200MHz (2x SO-DIMM socket, up to 32GB SDRAM)
+Ổ cứng		512GB SSD M.2 PCIE
+Card đồ họa	Intel Iris Xᵉ Graphics
+Màn hình	15.6" FHD (1920 x 1080) Diagonal IPS Anti-Glare WLED-Backlit, 45% NTSC, 250nits
+Cổng giao tiếp	1x USB 3.1 Gen 2 Type-C port
+		3x USB 3.1 Gen 1 Type-A ports (1 Charging, 1 Powered port)
+		1x HDMI 1.4b
+		1x RJ-45 (Ethernet) port
+		1x Headphone/microphone combo jack
+		1x AC power port
+		FingerPrint
+Audio		2 Integrated Stereo Speakers
+Đọc thẻ nhớ	SD Card Reader (Supports SD, SDHC, SDXC)
+Chuẩn LAN	Realtek 10/100/1000 GbE NIC
+Chuẩn WIFI	802.11AC (2x2)
+Bluetooth	v5.0
+Webcam		720p HD Camera
+Hệ điều hành	Windows 11 Home
+Pin		3 Cell 45WHr
+Trọng lượng	1.74kg
+Màu sắc		Bạc
+Kích thước	35,94 x 23,39 x 1,99 cm
