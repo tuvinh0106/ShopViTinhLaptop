@@ -39,9 +39,9 @@ return [
         
         'ftp' => [
             'driver'   => 'ftp',
-            'host'     => 'files.000webhost.com',
-            'username' => 'toxinbe',
-            'password' => 'Anhbe123',
+            'host'     => '',
+            'username' => '',
+            'password' => '',
             //Các thông số mở rộng
             'port'     => 21,
             // 'root'     => '',
